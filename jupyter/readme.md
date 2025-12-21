@@ -9,3 +9,9 @@ cosmetic_data_making
 >> Batch API 기반이라서 구글 클라우드 버킷에 데이터가 존재함. (로컬에서 데이터셋을 다운로드할 필요 X)
 >>
 >> 데이터셋 업로드가 끝나면 정리해두겠습니다.
+
+
+Directed_cut_making
+
+>> GPT로 프롬포트 enhance해서 연출컷 생성
+>> 작업중 (아직 업로드 X)
