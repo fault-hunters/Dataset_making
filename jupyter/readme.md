@@ -16,6 +16,15 @@ Directed_cut_making
 >> GPT로 프롬포트 enhance해서 연출컷 생성
 >> 작업중 (아직 업로드 X)
 
+----------------------------------------------------------------------
+
+pkg_brightness_classification
+
+CV2 패키지를 이용해서, 가상의 화장품 용기의 밝기를 측정해서 LIGHT (밝음), DARK (어두움) 으로 분류하는 코드
+
+<img width="552" height="196" alt="image" src="https://github.com/user-attachments/assets/bcb40df2-b7c7-42c1-b406-a53ec0d5b284" />
+
+<img width="552" height="196" alt="image" src="https://github.com/user-attachments/assets/2caa341f-4a54-4544-8884-2e37a3e9ccf3" />
 
 ----------------------------------------------------------------------
 
