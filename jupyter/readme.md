@@ -21,7 +21,7 @@ Directed_cut_making
 
 Review_tool
 
-폰트, 글자 분류하는 GUI
+폰트, 글자 불량 분류하는 GUI
 
 ### 📂 1. 전체 폴더 구조
 
