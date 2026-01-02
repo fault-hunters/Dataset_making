@@ -29,7 +29,7 @@ CONFIG = {
     
     # [파일명 설정]
     "TARGET_CSV": "Seg_filtered.csv",
-    "OUTPUT_CSV": "augmentation_log_structure.csv",
+    "OUTPUT_CSV": "augmentation_log.csv",
 }
 
 # [증강 파이프라인 정의]
@@ -435,4 +435,5 @@ def main():
 
 if __name__ == "__main__":
     multiprocessing.freeze_support()
+
     main()
